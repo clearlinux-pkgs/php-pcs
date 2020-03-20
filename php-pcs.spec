@@ -4,7 +4,7 @@
 #
 Name     : php-pcs
 Version  : 1.3.3
-Release  : 1
+Release  : 2
 URL      : https://pecl.php.net//get/pcs-1.3.3.tgz
 Source0  : https://pecl.php.net//get/pcs-1.3.3.tgz
 Summary  : No detailed summary available
